@@ -56,8 +56,8 @@
     
    ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
    ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-   📧 &emsp; Reach me anytime: webtech.dev@gmail.com<br/><br/>
-   💬 &emsp; Ask me about anything [here](https://github.com/webtech/webtech/issues)
+   📧 &emsp; Reach me anytime: webtech.os@gmail.com<br/><br/>
+   💬 &emsp; Ask me about anything [here](#)
   
   </p>
   
